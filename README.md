@@ -1,4 +1,4 @@
-# Secure Mobile Application Permission Analyzer
+ # Secure Mobile Application Permission Analyzer
 
 This project is a privacy-focused Android application permission analyzer that uses Natural Language Processing (NLP) and Regex to identify potential privacy risks by comparing app permissions with privacy policy statements.
 
@@ -100,3 +100,27 @@ Permission & Policy Comparison
 Privacy Risk Classification
         ↓
 Report Generation
+
+Expected Output
+The system generates a user-friendly report containing:
+Requested permissions
+Permission sensitivity
+Privacy policy statements
+Detected privacy-related keywords
+Permission-policy comparison
+Risk level
+Possible privacy concerns
+Recommendations
+Project Objective
+The main objective of this project is to make Android application privacy information easier to understand by analyzing permissions and privacy policies together and highlighting potential privacy risks.
+Future Enhancements
+Transformer-based NLP models
+Machine learning-based risk prediction
+Semantic similarity analysis
+Multilingual privacy policy analysis
+Automated privacy policy retrieval
+Permission combination analysis
+Android version-based permission analysis
+Continuous privacy monitoring
+Note
+This project is intended as a privacy analysis and awareness tool. The risk classification is based on the permissions and policy information available to the analyzer.
